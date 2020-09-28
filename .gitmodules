@@ -1,0 +1,3 @@
+[submodule "data/hsk-vocab"]
+	path = data/hsk-vocab
+	url = https://github.com/sawcordwell/HSK-Vocab
